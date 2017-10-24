@@ -1,4 +1,4 @@
 #Ignore the following
-*.DS_Store
+.DS_Store
 wp-config.php
 .htaccess
